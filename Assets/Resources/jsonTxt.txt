@@ -1,0 +1,5 @@
+{
+	"name" : "player",
+	"avatar" : "1",
+	"nickname" : "player"
+}
